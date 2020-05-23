@@ -1,7 +1,7 @@
 <h3>VPS性能测试1(显示ISP和地址)</h3>
     <pre>wget -qO- --no-check-certificate https://raw.githubusercontent.com/lklbjn/Pftest/master/superbench.sh | bash</pre>
 
-<a target="_blank" rel="noopener noreferrer" href=""><img src="" alt="test1.png" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="test1.png"><img src="test1.png" alt="test1.png" style="max-width:100%;"></a>
 
 
 <h3>VPS性能测试2(更多Ping)</h3>
