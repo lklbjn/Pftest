@@ -16,3 +16,6 @@
     <pre>wget -N --no-check-certificate https://raw.githubusercontent.com/lklbjn/Pftest/master/speedtest.sh && bash speedtest.sh</pre>
 
 <a target="_blank" rel="noopener noreferrer" href="test3.png"><img src="test3.png" alt="test3.png" style="max-width:100%;"></a>
+
+<h3>VPS回程测试</h3>
+    <pre>wget https://raw.githubusercontent.com/lklbjn/Pftest/master/returntest.sh && bash returntest.sh</pre>
